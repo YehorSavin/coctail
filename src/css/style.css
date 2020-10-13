@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: wheat;
+}
+
+ul{
+  list-style: none;
+}
+
+.coctail-list{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+}
+
+.coctail-item{
+  border: 2px solid;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
